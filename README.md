@@ -1,1 +1,1 @@
-Je n'ai pas mis le dosier library et le dosier temp car il sont trop volumineux et compliquer à importé.
+Je n'ai pas mis le dossier library et le dossier temp car ils sont trop volumineux et compliquer à importer.
